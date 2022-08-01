@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\bin\Debug\net6.0\SomaImparesConsecutivos.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\bin\Debug\net6.0\SomaImparesConsecutivos.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\bin\Debug\net6.0\SomaImparesConsecutivos.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\bin\Debug\net6.0\SomaImparesConsecutivos.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\bin\Debug\net6.0\SomaImparesConsecutivos.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\obj\Debug\net6.0\SomaImparesConsecutivos.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\obj\Debug\net6.0\SomaImparesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\obj\Debug\net6.0\SomaImparesConsecutivos.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\obj\Debug\net6.0\SomaImparesConsecutivos.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\obj\Debug\net6.0\SomaImparesConsecutivos.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\obj\Debug\net6.0\SomaImparesConsecutivos.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\obj\Debug\net6.0\refint\SomaImparesConsecutivos.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\obj\Debug\net6.0\SomaImparesConsecutivos.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\obj\Debug\net6.0\SomaImparesConsecutivos.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaImparesConsecutivos\obj\Debug\net6.0\ref\SomaImparesConsecutivos.dll
